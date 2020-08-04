@@ -1,0 +1,7 @@
+gcp_project                      = "fuzzylabs"
+gcp_region                       = "europe-west2"
+gcp_zone                         = "europe-west2-a"
+nomad_consul_server_cluster_name = "server-cluster"
+nomad_consul_server_source_image = "nomad-consul-ubuntu16-2020-08-03-122913"
+nomad_client_cluster_name        = "client-cluster"
+nomad_client_source_image        = "nomad-consul-ubuntu16-2020-08-03-122913"
