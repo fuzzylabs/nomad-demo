@@ -14,7 +14,7 @@ gcloud auth application-default login
 * [Install Packer](https://www.packer.io/docs/install)
 * [Install Nomad](https://www.nomadproject.io/downloads)
 
-### Create a Nomad / Consul image with Packer
+### Create a Nomad / Consul image with Packer
 
 Custom public images not currently supported in GCP so we build our own.
 
